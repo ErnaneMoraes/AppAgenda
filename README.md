@@ -1,2 +1,1 @@
-# AppAgenda
- 
+Trabalho desenvolvido para a matéria de Práticas de POO do curso de Sistemas de informação do Unileste - CENTRO UNIVERSITÁRIO CATÓLICA DO LESTE DE MINAS
